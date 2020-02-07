@@ -1,0 +1,13 @@
+{
+    "name": "Django Deployable Template",
+    "description": "Barebones Django app, deployable to Heroku.",
+    "image": "heroku/python",
+    "repository": "https://github.com/RyanFleck/Django-Deployable-Template",
+    "keywords": [
+        "python",
+        "django"
+    ],
+    "addons": [
+        "heroku-postgresql"
+    ]
+}
